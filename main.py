@@ -65,7 +65,7 @@ class main():
             
         print("REMOVING ALL OLD FONTS")
         for t in self.fonts:
-            print("|-REMOVING" + self.fonts[t] + "FROM DIRECTORY" + self.robloxVersionPath+ r"\content\fonts")
+            print("|-REMOVING " + self.fonts[t] + " FROM DIRECTORY " + self.robloxVersionPath+ r"\content\fonts")
             if os.path.exists(self.robloxVersionPath + "\\content\\fonts\\" + self.fonts[t]):
                 delete_file(self.robloxVersionPath+ '\\content\\fonts\\' + self.fonts[t])
 
