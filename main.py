@@ -57,7 +57,6 @@ class main():
         
         self.fonts = {}
         
-        print("WORK!")
         self.getAllFontsInRBLX(self.robloxVersionPath + r"\content\fonts")
 
         if hasFileInDirectory("./font/"):
@@ -82,9 +81,7 @@ class main():
         print("everything should be that font now!")
 
     def getAllFontsInRBLX(self, path):
-        print("EEEAEAE "+path)
         if os.path.exists(path):
-            print(path)
             for index, t in enumerate(os.listdir(path)):
                 print(t)
                 if has_font_extension(t):
