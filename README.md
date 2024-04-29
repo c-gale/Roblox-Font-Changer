@@ -17,7 +17,7 @@ everything should be that font now!
 
 however, make sure that before it says that you see something along the lines of this:
 ```
-|-REMOVING zekton_rg.ttf FROM DIRECTORY C:\Users\le gale boiz\AppData\Local\Roblox\Versions\version-24872f7beace4d0a\content\fonts
+|-REMOVING zekton_rg.ttf FROM DIRECTORY C:\Users\testUser\AppData\Local\Roblox\Versions\version-24872f7beace4d0a\content\fonts
 |-> File deleted successfully
 ```
 
