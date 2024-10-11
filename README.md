@@ -15,6 +15,6 @@ Your script should end with
 changes complete!
 ```
 
-If that shows up then go ahead and start up Roblox, now everything should be that font now!
+If that shows up then go ahead and start up Roblox, now everything should be that cursor now!
 
 If you run into any errors or bugs then it's probably something wrong with your JSON format so make sure to double-check that!
